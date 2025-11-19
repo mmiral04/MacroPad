@@ -1,0 +1,1 @@
+"C:\Users\mario\AppData\Local\Programs\Python\Python312\python.exe" "C:\Users\mario\AppData\Local\Programs\Python\Python312\Scripts\pyinstaller.exe" -F --noconsole --icon "E:\GitHub\Proyects\MacroPad\MacroPad\icon.ico" "E:\GitHub\Proyects\MacroPad\MacroPad\Python\main.py"

@@ -1,0 +1,3 @@
+*.FCBak
+/MacroPad-backups
+/Python/__pycache__
